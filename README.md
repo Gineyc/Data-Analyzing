@@ -26,3 +26,14 @@ This dataset focuses on testing the commen sense of a data analyst.
 
 The data source is from Kaggle: [Warehouse and Retail](https://github.com/Gineyc/Data-Analyzing-Cases/tree/master/Warehouse%20and%20Retail "Warehouse and Retail")
 I did a discriptive analysis of the dataset.
+
+## [Fraud-Detection](https://github.com/Gineyc/Data-Analyzing-Cases/tree/master/Fraud-Detection "Fraud-Detection")
+
+The context of this project is that credit card companies should be able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. Applied Logistic Regression, the aim of this project is to train a classifier to achieve Fraud-Detection.
+
+The data source is from Kaggle: [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+
+## [PCA+Kmeans-Customer-Segmentation](https://github.com/Gineyc/Data-Analyzing-Cases/tree/master/PCA%2BKmeans-Customer-Segmentation "PCA+Kmeans-Customer-Segmentation")
+Freelance reporting, private dataset.
+The aim of this project is to conduct a multi-dimentional analysis on customer at the beginning, then conduct a customer segmentation according to a set of KPIs which represent the customer current value and market potential. The customer segementation would contributes to formulate marketing strategies for customers with different profile, so as to achieve refined marketing.
